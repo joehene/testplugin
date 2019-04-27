@@ -1,0 +1,24 @@
+#PyDev files
+*.project
+*.pydevproject
+.settings
+
+#PyCharm files
+.idea
+
+#Compiled Python Files
+*.pyc
+*.zip
+
+# Bash scripts
+*.sh
+
+# Others
+*.swp
+*.chm
+*.chw
+
+# My scripts
+ui.make.bat
+
+.branch

@@ -1,0 +1,8 @@
+ [general]
+ name=TestPlugin
+ email=joehene@gmail.com
+ author=Joseph Kariuki
+ qgisMinimumVersion=2.14
+ description=Sample test plugin.
+ about=A very simple test plugin
+ version=0.1
